@@ -1,3 +1,4 @@
-# react-redux-contact-manager-final-o7xkrb
+# react-redux-contact-manager-app
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-redux-contact-manager-final-o7xkrb)
+
+
